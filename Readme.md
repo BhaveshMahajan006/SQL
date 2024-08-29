@@ -2,14 +2,14 @@
 ---
 ## How to create database
 
-create database database_name
+```create database database_name
 
 **For Example**
 
-create database practice
+```create database practice
 
 ## How to create Table in SQL
 
-create table table_name
+```create table table_name
 
 **For Example**
