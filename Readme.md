@@ -1,4 +1,5 @@
-``` sql
+# **SQL Basics to Advanced Guide**
+---
 ## How to create database
 
 create database database_name
