@@ -2,6 +2,8 @@
 ---
 ## How to create database
 
+```SQL
+
 ```create database database_name
 
 **For Example**
