@@ -6,14 +6,26 @@
 
 ```SQL
 
-#ffffff create database database_name
+CREATE DATABASE DATABASE_NAME;
 
 **For Example**
 
-create database practice
+CREATE DATABASE PRACTICE;
+
+
+**How to use database
+
+USE DATABASE_NAME
+
+**For Example**
+
+USE PRACTICE;
 
 ## How to create Table in SQL
 
-#000000 create table table_name
+CREATE TABLE TABLE_NAME;
 
 **For Example**
+
+CREATE TABLE STUDENT
+
